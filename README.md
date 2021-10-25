@@ -2,7 +2,7 @@
 
 An iOS switch component implemented in Swift with full Interface Builder support. 
 
-![Image of Neumorphic Label](https://ibb.co/72MKHDL)
+![Image of Neumorphic Label](https://i.ibb.co/6g9F2SL/switcher-xxxiii-by-volorf.gif)
 
 ## Installation
 Requirements
@@ -10,13 +10,13 @@ Requirements
 
 #### Swift Package Manager 
 1. In Xcode, open your project and navigate to File → Swift Packages → Add Package Dependency.
-2. Paste the repository URL (https://github.com/RichYourMind/ERStepperView.git) and click Next.
+2. Paste the repository URL (https://github.com/RichYourMind/ERSwitcherView.git) and click Next.
 3. For Rules, select version.
 4. Click Finish.
 
 #### Swift Package
 ```swift
-.package(url: "https://github.com/RichYourMind/ERStepperView.git")
+.package(url: "https://github.com/RichYourMind/ERSwitcherView.git")
 ```
 ## Usage
 Import ERSwitcherView package to your class.
@@ -27,7 +27,7 @@ import ERSwitcherView
 
  Put custom view to your scene and change its class to SwitcherView.
 
-![Image of usage](https://ibb.co/mvtnJLW)
+![Image of usage](https://i.ibb.co/28PzqD4/Screen-Shot-2021-10-25-at-2-30-51-PM.png)
 
 ## Customize
 Modify size , on color and off color directly from your class. Having outlet from switcher view to your code is what you need.
